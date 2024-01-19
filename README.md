@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @ErosiveSquare
+- 👀 I’m a NCEPU student
+- 🌱 I’m currently learning C++ , keil5 and ns3
+- 💞️ I’m looking to collaborate on the big internet enterprise.
+- 📫 How to reach me 763248542@qq.com
+- 😄 Pronouns: 233
