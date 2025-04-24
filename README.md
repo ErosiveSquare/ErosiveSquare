@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ErosiveSquare
 - 👀 I’m a NCEPU student
-- 🌱 I’m currently learning java , CV, ReID ，WPF and so on
+- 🌱 I’m currently learning AI, CV, ReID ，WPF and so on
 - 💞️ I’m looking to collaborate on the big internet enterprise.
 - 📫 How to reach me 763248542@qq.com
 - 😄 Pronouns: 233
